@@ -50,7 +50,7 @@ require([
       layerInfos: [
         {
           layer: featureLayer,
-          title: "Opioid Poisoning Deaths (2019) [By County in thousands]",
+          title: "Opioid Poisoning Deaths (in 2019) [By County in thousands]",
         },
       ],
     });
